@@ -1,0 +1,4 @@
+AuthUserFile "/home/supafmyd/.htpasswds/tenji.org/old/tools/passwd"
+AuthType Basic
+AuthName "secure"
+require valid-user
